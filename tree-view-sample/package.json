@@ -242,7 +242,7 @@
 	"dependencies": {
 		"ftp": "^0.3.10",
 		"jsonc-parser": "^0.4.2",
-		"minimist": "^1.2.6",
+		"minimist": "^1.2.8",
 		"mkdirp": "^0.5.1",
 		"rimraf": "^2.6.2"
 	}
